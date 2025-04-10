@@ -4,8 +4,6 @@
 
 <a href="https://www.instagram.com/ysh_0717"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiohohtani=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 https://ohohtani.github.io/weniv_blog/
 
 <!--
