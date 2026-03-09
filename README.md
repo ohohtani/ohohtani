@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ohotani/ohotani/main/assets/banner.svg" width="100%" alt="banner" />
+  <img src="./assets/banner.svg" width="100%" alt="banner" />
 </p>
 
 <h2 align="center">🙋 Introduce</h2>
