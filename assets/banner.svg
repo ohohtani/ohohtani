@@ -1,3 +1,48 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ohotani/ohotani/main/assets/banner.svg" width="100%" alt="banner" />
-</p>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E2430"/>
+      <stop offset="0.55" stop-color="#232A36"/>
+      <stop offset="1" stop-color="#2C3442"/>
+    </linearGradient>
+
+    <linearGradient id="wave" x1="0" y1="210" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#394252"/>
+      <stop offset="1" stop-color="#2C3442"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <circle cx="170" cy="75" r="110" fill="#FFFFFF" fill-opacity="0.05"/>
+  <circle cx="1040" cy="65" r="120" fill="#FFFFFF" fill-opacity="0.04"/>
+  <circle cx="930" cy="245" r="70" fill="#FFFFFF" fill-opacity="0.04"/>
+
+  <text x="600" y="145"
+        text-anchor="middle"
+        fill="#F3F6FA"
+        font-size="52"
+        font-weight="700"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    Welcome to Siheon Yang's GitHub
+  </text>
+
+  <text x="600" y="192"
+        text-anchor="middle"
+        fill="#B7C2D0"
+        font-size="24"
+        font-weight="500"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    Machine Learning · Time-Series Forecasting
+  </text>
+
+  <path d="M0 238
+           C95 184, 195 184, 295 238
+           C395 292, 495 292, 600 238
+           C705 184, 805 184, 905 238
+           C1005 292, 1105 292, 1200 248
+           L1200 320
+           L0 320
+           Z"
+        fill="url(#wave)"/>
+</svg>
