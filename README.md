@@ -208,3 +208,50 @@
     <td align="center">시계열 / 회귀</td>
   </tr>
 </table>
+
+<h2 align="center">⚡ Skills ⚡</h2>
+<hr>
+
+<h3 align="center">🐍 Primary Language</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>Main language for machine learning, time-series forecasting, and data analysis</sub>
+</p>
+
+<h3 align="center">🎯 Focus Areas</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time--Series%20Forecasting-1F2937?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-374151?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B5563?style=for-the-badge&logoColor=white" />
+</p>
+
+<h3 align="center">📚 Core Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+<h2 align="center">💻 Programming</h2>
+<hr>
+
+<p align="center">
+  <a href="https://solved.ac/YOUR_BAEKJOON_ID">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgjs7006" alt="Solved.ac Profile" />
+  </a>
+</p>
