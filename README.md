@@ -47,10 +47,16 @@
   <tr>
     <td align="center">2025</td>
     <td>
-      MIS-LSTM: Multichannel Image-Sequence LSTM for Sleep Quality and Stress Prediction
+      <a href="https://arxiv.org/abs/2509.11232">
+        MIS-LSTM: Multichannel Image-Sequence LSTM for Sleep Quality and Stress Prediction
+      </a>
     </td>
     <td align="center">IEEE ICTC 2025</td>
-    <td align="center">Oral Presentation (Oct 2025)</td>
+    <td align="center">
+      <a href="https://dacon.io/competitions/official/236468/codeshare/13124">
+        Oral Presentation (Oct 2025)
+      </a>
+    </td>
   </tr>
 </table>
 
