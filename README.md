@@ -228,7 +228,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Time--Series%20Forecasting-1F2937?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analysis-374151?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B5563?style=for-the-badge&logoColor=white" />
 </p>
 
 <h3 align="center">📚 Core Stack</h3>
