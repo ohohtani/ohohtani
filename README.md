@@ -146,7 +146,7 @@
   </tr>
 
   <tr>
-    <td align="center">2025</td>
+    <td align="center">2025.09.13 ~ 2025.09.14</td>
     <td>
       제1회 달빛톤 (AI를 활용한 사회문제 해결)<br>
       <sub>🏆 우수상 · 경북대학교 소프트웨어교육원장상</sub>
@@ -155,7 +155,7 @@
   </tr>
 
   <tr>
-    <td align="center">2025</td>
+    <td align="center">2025.09.27</td>
     <td>
       영남대학교 AI 캡스톤 디자인 경진대회 - 농산물 도매가 예측 앱 개발<br>
       <sub>🏆 장려상 · 영남대학교 총장상</sub>
