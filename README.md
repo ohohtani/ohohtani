@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  Hi I'm Siheon Yang.<br>
+  Hi, I'm Siheon Yang.<br>
   I received a B.S. in Information and Communication Engineering from Yeungnam University.
 </p>
 
@@ -25,11 +25,31 @@
   </a>
 </p>
 
-<h2 align="center">🛠️ About me</h2>
+<h2 align="center">🛠️ About Me</h2>
 <hr>
 
 <h3 align="center">🎓 Education</h3>
 
 <p align="center">
-  🎓 B.S. in Information and Communication Engineering, Yeungnam University
+  🎓 B.S. in Information and Communication Engineering, Yeungnam University <code>2020.03 ~ 2026.02</code>
 </p>
+
+<h2 align="center">😊 Publications</h2>
+<hr>
+
+<table align="center">
+  <tr>
+    <th>Year</th>
+    <th>Title</th>
+    <th>Venue</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td align="center">2025</td>
+    <td>
+      MIS-LSTM: Multichannel Image-Sequence LSTM for Sleep Quality and Stress Prediction
+    </td>
+    <td align="center">IEEE ICTC 2025</td>
+    <td align="center">Oral Presentation (Oct 2025)</td>
+  </tr>
+</table>
