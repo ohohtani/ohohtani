@@ -47,7 +47,7 @@
   <tr>
     <td align="center">2025</td>
     <td>
-      <a href="https://arxiv.org/abs/2509.11232">
+      <a href="[https://arxiv.org/abs/2509.11232](https://ieeexplore.ieee.org/document/11388092)">
         MIS-LSTM: Multichannel Image-Sequence LSTM for Sleep Quality and Stress Prediction
       </a>
     </td>
